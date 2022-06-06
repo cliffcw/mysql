@@ -1,0 +1,28 @@
+220605 23:32:02 InnoDB: !!!!!!!! UNIV_DEBUG switched on !!!!!!!!!
+220605 23:32:02 InnoDB: The InnoDB memory heap is disabled
+220605 23:32:02 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+220605 23:32:02 InnoDB: Compressed tables use zlib 1.2.11
+220605 23:32:02 InnoDB: Initializing buffer pool, size = 128.0M
+220605 23:32:02 InnoDB: Completed initialization of buffer pool
+InnoDB: The first specified data file ./ibdata1 did not exist:
+InnoDB: a new database to be created!
+220605 23:32:02  InnoDB: Setting file ./ibdata1 size to 10 MB
+InnoDB: Database physically writes the file full: wait...
+220605 23:32:02  InnoDB: Log file ./ib_logfile0 did not exist: new to be created
+InnoDB: Setting log file ./ib_logfile0 size to 5 MB
+InnoDB: Database physically writes the file full: wait...
+220605 23:32:02  InnoDB: Log file ./ib_logfile1 did not exist: new to be created
+InnoDB: Setting log file ./ib_logfile1 size to 5 MB
+InnoDB: Database physically writes the file full: wait...
+InnoDB: Doublewrite buffer not found: creating new
+InnoDB: Doublewrite buffer created
+InnoDB: 127 rollback segment(s) active.
+InnoDB: Creating foreign key constraint system tables
+InnoDB: Foreign key constraint system tables created
+220605 23:32:03  InnoDB: Waiting for the background threads to start
+220605 23:32:04 InnoDB: 5.5.62 started; log sequence number 0
+220605 23:32:04 [Note] Server hostname (bind-address): '0.0.0.0'; port: 33060
+220605 23:32:04 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+220605 23:32:04 [Note] Server socket created on IP: '0.0.0.0'.
+220605 23:32:04 [Note] /Users/chenwan/MyselfProjects/mysql/mysql-5.5.62/sql/mysqld: ready for connections.
+Version: '5.5.62-debug'  socket: '/tmp/mysql.sock'  port: 33060  Source distribution

@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libpartition.a CMakeFiles/partition.dir/ha_partition.cc.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libpartition.a

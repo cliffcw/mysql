@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc  -Wall -Wextra -Wformat-security -Wvla -Wwrite-strings -Wdeclaration-after-statement -g -DENABLED_DEBUG_SYNC -DSAFE_MUTEX -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/comp_sql.dir/comp_sql.c.o -o comp_sql 
